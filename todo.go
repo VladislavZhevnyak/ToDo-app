@@ -6,7 +6,7 @@ type TodoList struct {
 	Description string `json:"description"`
 }
 
-type UserList struct {
+type UsersList struct {
 	Id     int
 	UserId int
 	ListId int
